@@ -12,11 +12,11 @@ Build the docker image
 ```
 Run docker container
 ```bash
-   docker run -p $port:80 you_image_name
+   docker run -p $port:80 your_image_name
 ```
 Run the container on your localhost
 ```bash
    http://localhost:$port/
 ```
-Go to /docs to try out the api
-Click "Try it out" and upload an image and click "Execute" to get the response
+- Go to /docs to try out the api.
+- Click "Try it out" and upload an image and click "Execute" to get the response
